@@ -19,7 +19,7 @@
 
 ###### Clone this repo:
 ```bash
-$ git clone https://github.com/elpideus/tgbiofy.git
+$ git clone https://github.com/officiallymono/tgbiofyy/
 ```
 
 ###### Go to the "tgbiofy" directory:
